@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>PPF-HeavyFlamer-CR.esm</Addon>
+    <Source>en</Source>
+    <Dest>es</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" Partial="2">
+      <EDID>[00000000]</EDID>
+      <REC>TES4:CNAM</REC>
+      <Source>BenRierimanu</Source>
+      <Dest>BenRierimanu</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00000000]</EDID>
+      <REC>TES4:SNAM</REC>
+      <Source>PPF-HeavyFlamer-CR is obsolete with 74.7 and newer.</Source>
+      <Dest>PPF-HeavyFlamer-CR está obsoleto con 74.7 y más reciente.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
